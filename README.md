@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React JS, Tailwind CSS, Next JS, Express JS, MongoDB, Typescript, JavaScript, Git**
 
-- 📫 How to reach me **codeaprogram@gmail.com**
+- 📫 How to reach me **zeoxr19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
