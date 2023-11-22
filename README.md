@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Adrian</h1>
+<h3 align="center">A WhatsApp Bot And Website Developer</h3>
 
-<!--
-**xyzendev/xyzendev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyzendev&label=Profile%20views&color=0e75b6&style=flat" alt="xyzendev" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyzendev" alt="xyzendev" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **React JS, Tailwind CSS, Next JS, Express JS, MongoDB, Typescript, JavaScript, Git**
+
+- 📫 How to reach me **codeaprogram@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xyzendev&show_icons=true&locale=en&layout=compact" alt="xyzendev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xyzendev&show_icons=true&locale=en" alt="sridhar-c-25" /></p>
+
