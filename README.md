@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">The Learing Javascript</h3>
 
+<div align="center"> 
+<img src="https://pomf2.lain.la/f/zu3x1cnl.gif" width="100%">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xyzendev&label=Profile%20views&color=0e75b6&style=flat" alt="xyzendev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xyzendev" alt="xyzendev" /></a> </p>
