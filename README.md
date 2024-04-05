@@ -2,7 +2,7 @@
 <h3 align="center">The Learing Javascript</h3>
 
 <div align="center"> 
-<img src="https://pomf2.lain.la/f/zu3x1cnl.gif" width="100%">
+<img src="./main.gif" width="100px">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xyzendev&label=Profile%20views&color=0e75b6&style=flat" alt="xyzendev" /> </p>
 
