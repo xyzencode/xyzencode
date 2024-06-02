@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc**
 
-- 👯 I’m looking to collaborate on [Oliveee](https://github.com/xyzencode/xyzenbotv2)
+- 👯 I’m looking to collaborate on [Oliveee](https://github.com/xyzencode/olxyz-esm)
 
 - 👨‍💻 All of my projects are available at [https://xyzencode.me](https://xyzen.tech)
 
