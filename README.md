@@ -39,7 +39,7 @@
 
 <h3 align="center">Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php,sass,bash,powershell,regex" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php,sass,bash,powershell,regex" />
 </div>
 
 <h3 align="center">Frameworks</h3>
