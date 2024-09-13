@@ -49,7 +49,7 @@
 
 <h3 align="center">Tools</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,azure,gcp,docker,nginx,heroku,mongodb,firebase,supabase,sqlite,postman,rollupjs,bun,npm" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,docker,nginx,heroku,mongodb,firebase,supabase,sqlite,postman,rollupjs,bun,npm" />
 </div>
 
 <h3 align="center">Architecture</h3>
