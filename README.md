@@ -34,22 +34,29 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages · Frameworks · Tools · Architecture ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
+<h3 align="center">Languages</h3>
 <div align="center">
-    <h3>Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,php,bash,powershell,regex" />
-    
-    <h3>Frameworks</h3>
+</div>
+
+<h3 align="center">Frameworks</h3>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,express,nextjs,tailwind,fastapi,remix,prisma,graphql" />
-    
-    <h3>Tools</h3>
+</div>
+
+<h3 align="center">Tools</h3>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,azure,gcp,docker,nginx,heroku,mongodb,firebase,supabase,sqlite,postman,rollupjs,bun,npm" />
-    
-    <h3>Architecture</h3>
+</div>
+
+<h3 align="center">Architecture</h3>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=autocad,sketchup" />
 </div>
+
 
 
 
